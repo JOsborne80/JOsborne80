@@ -17,4 +17,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/jessica-osborne-b0023811a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHbLoMXrVQjurqIC7xa76bw%3D%3D)
