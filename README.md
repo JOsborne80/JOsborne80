@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+<p align="center">
+<img src="https://i.imgur.com/zeRAsrN.png" alt="osTicket logo"/>
+</p>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/josborne80/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/josborne80/post-install-config)
