@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/zeRAsrN.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/2zIc27p.png" alt="osTicket logo"/>
 </p>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
