@@ -14,6 +14,7 @@ Simulated a real-world customer environment to analyze performance issues and pr
 - Azure Monitor Performance Analysis
 - CPU Utilization Issue Identification
 - Business-Focused Optimization Recommendations
+  
 [🔗 View Full Azure VM Performance Optimization Project](https://github.com/JOsborne80/azure-vm-performance-optimization)
 
 ### 🔐 Azure Storage Secure Access Lab  
