@@ -6,6 +6,15 @@
 <img src="https://i.imgur.com/2zIc27p.png" alt="osTicket logo"/>
 </p>
 
+### ☁️ Azure VM Performance Optimization Project
+- Azure VM Deployment & Configuration
+- Azure Monitor Performance Analysis
+- CPU Utilization Issue Identification
+- Business-Focused Optimization Recommendations
+
+🔗 [View Full Project](https://github.com/JOsborne80/azure-vm-performance-optimization)
+
+🔗 [View Project](https://github.com/YOUR-USERNAME/azure-vm-performance-optimization)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/josborne80/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/josborne80/post-install-config)
