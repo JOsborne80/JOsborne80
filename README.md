@@ -25,7 +25,7 @@ Designed and implemented a secure Azure storage solution using role-based access
 - Secure External Access via SAS Tokens  
 - Encryption & Data Protection Settings  
 
-🔗 [View Project](https://github.com/JOsborne80/azure-storage-secure-access-lab)
+🔗 [View Full Azure Storage Secure Access Lab Project ](https://github.com/JOsborne80/azure-storage-secure-access-lab)
 
 
  
