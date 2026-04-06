@@ -7,12 +7,11 @@
 </p>
 
 ### ☁️ Azure VM Performance Optimization Project
+Simulated a real-world customer environment to analyze performance issues and provide business-aligned optimization solutions.
 - Azure VM Deployment & Configuration
 - Azure Monitor Performance Analysis
 - CPU Utilization Issue Identification
 - Business-Focused Optimization Recommendations
-
-🔗 [View Full Project](https://github.com/JOsborne80/azure-vm-performance-optimization)
 
 🔗 [View Project](https://github.com/YOUR-USERNAME/azure-vm-performance-optimization)
 - <b>osTicket (Help Desk Ticketing System)</b>
