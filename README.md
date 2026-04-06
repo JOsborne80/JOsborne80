@@ -5,6 +5,8 @@
 <p align="center">
 <img src="https://i.imgur.com/2zIc27p.png" alt="osTicket logo"/>
 </p>
+🚀 Hands-on Azure projects focused on real-world customer environments, performance optimization, and secure cloud architecture.
+
 
 ### ☁️ Azure VM Performance Optimization Project
 Simulated a real-world customer environment to analyze performance issues and provide business-aligned optimization solutions.
@@ -12,6 +14,17 @@ Simulated a real-world customer environment to analyze performance issues and pr
 - Azure Monitor Performance Analysis
 - CPU Utilization Issue Identification
 - Business-Focused Optimization Recommendations
+
+### 🔐 Azure Storage Secure Access Lab  
+Designed and implemented a secure Azure storage solution using role-based access control (RBAC), shared access signatures (SAS), and encryption to manage internal and external data access.
+
+- Azure Storage Account Deployment  
+- RBAC Access Control Configuration  
+- Secure External Access via SAS Tokens  
+- Encryption & Data Protection Settings  
+
+🔗 [View Project](https://github.com/JOsborne80/azure-storage-secure-access-lab)
+
 
  [🔗 View Full Azure VM Performance Optimization Project](https://github.com/YOUR-USERNAME/azure-vm-performance-optimization)
 - <b>osTicket (Help Desk Ticketing System)</b>
