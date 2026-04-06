@@ -13,7 +13,7 @@ Simulated a real-world customer environment to analyze performance issues and pr
 - CPU Utilization Issue Identification
 - Business-Focused Optimization Recommendations
 
-🔗 [🔗 View Full Azure VM Performance Optimization Project](https://github.com/YOUR-USERNAME/azure-vm-performance-optimization)
+ [🔗 View Full Azure VM Performance Optimization Project](https://github.com/YOUR-USERNAME/azure-vm-performance-optimization)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/josborne80/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/josborne80/post-install-config)
