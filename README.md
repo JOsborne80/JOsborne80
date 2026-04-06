@@ -14,8 +14,7 @@ Simulated a real-world customer environment to analyze performance issues and pr
 - Azure Monitor Performance Analysis
 - CPU Utilization Issue Identification
 - Business-Focused Optimization Recommendations
-- 
-[🔗 View Full Azure VM Performance Optimization Project](https://github.com/YOUR-USERNAME/azure-vm-performance-optimization)
+[🔗 View Full Azure VM Performance Optimization Project](https://github.com/JOsborne80/azure-vm-performance-optimization)
 
 ### 🔐 Azure Storage Secure Access Lab  
 Designed and implemented a secure Azure storage solution using role-based access control (RBAC), shared access signatures (SAS), and encryption to manage internal and external data access.
