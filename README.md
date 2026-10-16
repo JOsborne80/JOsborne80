@@ -5,9 +5,25 @@
 <p align="center">
 <img src="https://i.imgur.com/2zIc27p.png" alt="osTicket logo"/>
 </p>
-🚀 Hands-on Azure projects focused on real-world customer environments, performance optimization, and secure cloud architecture.
+🚀 Hands-on technical projects focused on SaaS integration troubleshooting, REST APIs, cloud infrastructure, security, and customer-focused problem solving.
 
+### 🔌 SaaS Integration & API Troubleshooting Lab
 
+Hands-on technical support exercises focused on REST API testing, HTTP response analysis, browser developer tools, and simulated webhook delivery investigations.
+
+**Skills Demonstrated**
+- REST API GET requests using Windows PowerShell
+- HTTP status code analysis (`200 OK`, `304 Not Modified`, `401 Unauthorized`)
+- Chrome Developer Tools for network request and JSON response inspection
+- Webhook event correlation, authentication troubleshooting, and delivery log filtering
+- Technical documentation and troubleshooting workflows
+
+🔗 [View Full SaaS Integration Troubleshooting Portfolio](https://github.com/JOsborne80/saas-integration-troubleshooting-lab)
+
+**Project Labs**
+- [Lab 1: REST API Testing with PowerShell](https://github.com/JOsborne80/saas-integration-troubleshooting-lab/tree/main/01-rest-api-powershell)
+- [Lab 2: Chrome Developer Tools Investigation](https://github.com/JOsborne80/saas-integration-troubleshooting-lab/tree/main/02-browser-devtools)
+- [Lab 3: Simulated Webhook Delivery Investigation](https://github.com/JOsborne80/saas-integration-troubleshooting-lab/tree/main/03-webhook-investigation)
 ### ☁️ Azure VM Performance Optimization Project
 Simulated a real-world customer environment to analyze performance issues and provide business-aligned optimization solutions.
 - Azure VM Deployment & Configuration
